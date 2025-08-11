@@ -1,6 +1,6 @@
-# Manpreet Kour - Portfolio
+# Manpreet Kour - Study Material
 
-A personal portfolio website built with React.js showcasing my skills, study notes, and professional information.
+A personal  website built with React.js showcasing my skills, study notes, and professional information.
 
 ## Features
 
